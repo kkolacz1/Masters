@@ -1,0 +1,1 @@
+This contains a quality check files performed with FastQC and then merged with MultiQC for each of the analyzed cities (Kiev, Zyruch, Stockholm) *1.html is a quality check before trimmomatic, *2.html is a quality check after trimmomatic.
