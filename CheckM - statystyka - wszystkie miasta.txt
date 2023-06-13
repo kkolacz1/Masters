@@ -1,0 +1,219 @@
+CheckM przeprowadzony na binach utworzonych z kontigów MetaSPAdes Kijów
+
+Bin Id 
+----------------------------------------------------------------------------------                       
+Strain_heterogeneity Completness Contamination      #genomes #markers #marker_sets 
+---------------------------------------------------------------------------------- 
+haib17CEM5241_HMGMHCCXY_SL343463_metabat.1 _o_Actinomycetales (UID1530) 
+50.00                98.68         1.64                  622       259      152
+haib17CEM5241_HMGMHCCXY_SL343472_metabat.1 _o_Actinonycetales (UID1530) 
+100.11               97.70         1.43                  622       259      152
+haib17CEHS241_HMGMHCCKY_SL343460_metabat.1 _0_Actinonycetales (UID1530) 
+100.00               96.71         0.11                  622       259      152
+haib17CEM5241_HMGMHCCXY_SL343460_metabat.1 _o_Actinonycetales (UID1530) 
+75.0                 96.12         1.32                  622       259      152
+haib17CEM5241_HMGMHCCXY_SL343443_metabat.1 _0_Actinonycetales (UID1530)
+0.00                 95.39         0.00                  622       259      152
+haib17CEM5241_HMCMJCCXY_SL336193_metabat.5 _0_Actinonycetales (UID1530) 
+100.00               94.96         0.16                  622       259      152
+haib17CEM5241_HMGMHCCXY_SL343467_metabat.3 __o_Rhizobiales    (UID3654) 
+28.57                87.54         3.56                  92       481       319
+haib17CEM5241_HMGMHCCXY_SL343458_metabat.1 k_Bacteria         (UID203) 
+00.00                68.10         00.00                 5449     104       58              
+haib17CEM5241_HMCMJCCXY_SL336193_metabat.4 _0_Burkholderiales (UID4000) 
+00.00                64.45         00.00                 193      427       107       
+haib17CEM5241_HMGMHCCXY_SL343459_metabat.1 k_Archaea          (UID2) 
+00.00                64.45         0.65                  207      149       57
+haib17CEM5241_HMGMHCCXY_SL343447_metabat.1 f_Bradyrhizobiaceae(UID3695) 
+32.00                57.36         4.37                  47       693       296 
+haib17CEM5241_HMCMJCCXY_SL336193_metabat.1 f_Micrococcaceae   (UID1623)
+50.00                38.06         0.79                  39       457       218     
+haib17CEM5241_HMGMHCCXY_SL343458_metabat.2 o_Actinonycetales  (UID1530)
+00.00                36.10         0.66                  622      259       152
+haib17CEM5241_HMGMHCCXY_SL343467_metabat.2 o_Actinonycetales  (UI01815)
+00.00                29.56         0.19                  622      574       266
+haib17CEM5241_HMGMHCCXY_SL343460_metabat.3 k_Bacteria         (UID203)
+00.00                24.92         00.00                 5449     104       58
+haib17CEM5241_HMGMHCCXY_SL343462_metabat.2 k_Archaea          (UIO2)
+100.00               21.12         1.72                  39       457       218
+haib17CEM5241_HMGMHCCXY_SL343462_metabat.1 o__Actinomycetales (UID1663)
+00.00                20.27         0.19                  488      310       237
+haib17CEM5241_HMGMHCCXY_SL343435_metabat.1 k_Archaea          (UID2)
+00.00                24.92         00.00                 207      149       107        
+haib17CEM5241_HMCMJCCXY_SL336193_metabat.3 k_Bacteria         (UID203)
+100.00                16.03         1.72                 5449     104       58
+haib17CEM5241_HMGMHCCXY_SL343460_metabat.2 f_Micrococcaceae   (UI01623)
+00.00                 11.39         00.00                39       457       218
+haib17CEM5241_HMCMJCCXY_SL336193_metabat.2 root               (UID1)
+00.00                 4.17          00.00                5656     56        24
+haib17CEM5241_HMGMHCCXY_SL343467_metabat.1 k_Bacteria         (UI0203)
+00.00                 3.66          00.00                5449     104       58
+
+
+
+CheckM przeprowadzony na binach utworzonych z kontigów MegaHIT Kijów
+
+Bin Id 
+----------------------------------------------------------------------------------                       
+Strain_heterogeneity Completness Contamination      #genomes #markers #marker_sets 
+---------------------------------------------------------------------------------- 
+haib17CEM5241_HMGMHCCXY_SL343460_metabat.2 o_Actinomycetales   (UID1530)
+100.00               97.37         0.66                  622       259     152
+haib17CEM5241_HMGMHCCXY_SL343463_metabat.1 o_Actinomycetales   (UID1530)
+50.00                96.71         1.97                  622       259     152
+haib17CEM5241_HMGMHCCXY_SL343443_metabat.1 o_Actinonycetales   (101530)
+100.00               96.05         1.97                  622       259     152
+haib17CEM5241_HMGMHCCXY_SL336193_metabat.3 o_Actinomycetales   (UID1530)
+100.00               96.23         1.66                  622       259     152
+haib17CEM5241_HMGMHCCXY_SL343472_metabat.1 o__Actinonycetales  (101530)
+100.00               92.21         2.58                  622       259     152
+haib17CEM5241_HMGMHCCXY_SL343471_metabat.1 o_Actinonycetales   (UID1530)
+28.57                73.06         1.67                  622       259     152
+haib17CEM5241_HMGMHCCXY_SL343467_metabat.1 o_Rhizobiales       (UID3654)
+00.00                51.65         14.11                 92       481      319
+haib17CEM5241_HMGMHCCXY_SL343459_metabat.2 k_Archaea           (UID2)
+00.00                36.80         00.00                 207      149      107
+haib17CEM5241_HMGMHCCXY_SL336193_metabat.1 k_Bacteria          (UI0203)
+00.00                36.80         00.00                 5449     104      58
+haib17CEM5241_HMGMHCCXY_SL343447_metabat.1 f_Bradyrhizobiaceae (UID3695)
+66.67                35.42         0.55                  47       693      296
+haib17CEM5241_HMGMHCCXY_SL343458_metabat.1 k_Bacteria          (UI0203)
+00.00                36.80         00.56                 5449     104      58
+haib17CEM5241_HMGMHCCXY_SL336193_metabat.4 k_Bacteria          (UID203)
+00.00                37.2          00.00                 5449     104      58
+haib17CEM5241_HMGMHCCXY_SL343435_metabat.1 k_Archaea           (UID2)
+00.00                9.18          00.00                 207      149      107      
+haib17CEM5241_HMGMHCCXY_SL343467_metabat.1 root                (UID1)
+00.00                8.33          00.00                 5656     56       24
+haib17CEM5241_HMGMHCCXY_SL343462_metabat.1 k_Archaea           (UID2)
+00.00                4.80          00.00                 207      149      107 
+haib17CEM5241_HMGMHCCXY_SL343460_metabat.1 root                (UID1)
+00.00                4.17          00.00                 5656     56       24
+haib17CEM5241_HMGMHCCXY_SL343458_metabat.2 root                (UID1)
+00.00                00.00         00.00                 5656     56       24
+haib17CEM5241_HMGMHCCXY_SL336193_metabat2 root                (UID1)
+00.00                00.00         00.00                 5656     56       24
+
+
+
+CheckM przeprowadzony na binach utworzonych z kontigów MetaSPAdes Sztokholm
+
+Bin Id 
+----------------------------------------------------------------------------------                       
+Strain_heterogeneity Completness Contamination      #genomes #markers #marker_sets 
+---------------------------------------------------------------------------------- 
+haib18CEM5453_HMCMJCCXY_SL336403_metabat.1 0 _Actinomycetales  (UID1530)
+100.00               99.34          0.16                 622        259     152
+haib18CEM5453_HMCMJCCXY_SL336416_SL336416 metabat.1 _o_Actinomycetales  (UID1530)
+50.00                87.61          1.75                 622        259     152
+haib18CEM5453_HMCMJCCXY_SL336400_metabat.1 0 _Actinonycetales  (UID1530)
+66.67                77.21          4.17                 622        259     152
+haib18CEM5453_HMCMJCCXY_SL336425_metabat.1 k_Bacteria          (UID203)
+00.00                18.89          00.00                5449       104     58   
+haib18CEM5453_HMCMJCCXY_SL336416_metabat.2 k_Bacteria          (UID203)
+00.00                6.01           00.00                5449       104     58
+
+
+
+CheckM przeprowadzony na binach utworzonych z kontigów MegaHIT Sztokholm
+
+Bin Id 
+----------------------------------------------------------------------------------                       
+Strain_heterogeneity Completness Contamination      #genomes #markers #marker_sets 
+---------------------------------------------------------------------------------- 
+haib18CEM5453_HMCMJCCXY_SL336403_metabat.1 _o__Actinomycetales (UID1530)
+100.00               91.45         1.32                  622       259      152
+haib18CEMS453_HMCMJCCXY_SL336416_metabat.1 0_Actinomycetales   (UID1530)
+100.00               82.61         0.66                  622       259      152
+haib18CEM5453_HMCMJCCXY_SL336400_metabat.1 0__Actinomycetales  (UID1530)
+50.00                63.32         0.99                  622       259      152
+haib18CEM5453_HMCMJCCXY_SL336428_metabat.1 k_Bacteria          (UID203)
+00.00                10.34         00.00                 5449      104      98               
+
+
+
+
+CheckM przeprowadzony na binach utworzonych z kontigów MetaSPAdes Zurych
+
+Bin Id 
+----------------------------------------------------------------------------------                       
+Strain_heterogeneity Completness Contamination      #genomes #markers #marker_sets 
+---------------------------------------------------------------------------------- 
+haib18CEM5526_HMGMHCCXY_SL343397_metabat.1 o_Actinomycetales     (UID1530)
+100.00               100.00        0.88                  622       259      152
+haib18CEM5526_HMGTJCCXY_SL342642_metabat.5 c_Alphaproteobacteria (UID3422)
+27.50                98.90         1.50                  26        529      308
+haib18CEM5526_HMGMHCCXY_SL343406_metabat.1 o _Actinomycetales    (UID1530)
+00.00                95.61         1.32                  622       259      152
+haib18CEM5526_HMGTJCCXY_SL342642_metabat.1 f_Xanthomonadaceae    (UID4214)
+59.26                83.57         4.76                  55        650      290
+haib18CEM5526_HMGMHCCXY_SL343414_metabat.1 k_Bacteria            (UID203)
+00.00                42.85         00.00                 5449      104      58
+haib18CEM5526_HMGMHCCXY_SL343421_metabat.1 k_Archaea             (UID2)
+00.00                40.97         00.00                 207       149      107
+haib18CEM5526_HMGMHCCXY_SL343403_metabat.1 k_Bacteria            (U1D203)
+33.33                34.48         1.55                  5449      104      58
+haib18CEM5526_HMGTJCCXY_SL342646_metabat.1 k_Bacteria            (UID203)
+00.00                19.44         00.00                 5449      104      58
+haib18CEM5526_HMGTJCCXY_SL342642_metabat.4 k_Bacteria            (UID203)
+00.00                13.79         00.00                 5449      104      58
+haib18CEM5526_HMGTJCCXY_SL342642_metabat.6 k_Bacteria            (U1D203) 
+00.00                9.48          00.00                 5449      104      58
+haib18CEM5526_HMGTJCCXY_SL342642_metabat.2 root                  (UID1)
+00.00                8.33          00.00                 5656      56       24
+haib18CEM5526_HMGTJCCXY_SL342642_metabat.3 root                  (UID1) 
+00.00                4.17          00.00                 5656      56       24
+haib18CEM5526_HMGMHCCXY_SL343421_metabat.2 k_Archaea             (UID2)
+00.00                1.87          00.00                 207       149      107
+haib18CEM5526_HMGMHCCXY_SL343403_metabat.2 k_Bacteria            (UID203)
+00.00                1.49          00.00                 5449      104      58
+
+
+
+
+CheckM przeprowadzony na binach utworzonych z kontigów MetagaHIT Zurych
+
+Bin Id 
+----------------------------------------------------------------------------------                       
+Strain_heterogeneity Completness Contamination      #genomes #markers #marker_sets 
+---------------------------------------------------------------------------------- 
+haib18CEM5526_HMGMHCCXY_SL343397_metabat.1 0 _Actinomycetales    (UID1530)
+100.00               100.00        0.88                  622       259       152
+haib18CEM5526_HMGTJCCXY_SL342642_metabat.5 c_Alphaproteobacteria (UID3422)
+37.50                98.90         1.50                  26        529       308
+haib18CEM5526_HMGMHCCXY_SL343406_metabat.1 0 _Actinomycetales    (UID1530)
+00.00                95.61         1.32                  622       259       152
+haib18CEM5526_HMGTJCCXY_SL342642_metabat.1 f__Xanthomonadaceae   (UID4214)
+59.26                83.57         4.76                  55        659       290
+haib18CEM5526_HMGMHCCXY_SL343414_metabat.1 k_Bacteria            (UID203)
+00.00                42.85         00.00                 5449      104       58
+haib18CEM5526_HMGMHCCXY_SL343421_metabat.1 k_Archaea             (UID2)
+00.00                40.97         14.11                 207       149       107
+haib18CEM5526_HMGMHCCXY_SL343403_metabat.1 k_Bacteria            (UID203)
+33.33                34.48         1.55                  5449      104       58
+haib18CEM5526_HMGTJCCXY_SL342646_metabat.1 k_Bacteria            (UID203)
+00.00                19.44         00.00                 5449      104       58
+haib18CEM5526_HMGTJCCXY_SL342642 metabat.4 k_Bacteria            (UID203)
+00.00                13.97         00.00                 5449      104       58
+haib18CEM5526_HMGTJCCXY_SL342642_metabat.6 k_Bacteria            (UID203) 
+00.00                9.48          00.00                 5449      104       58
+haib18CEM5526_HMGTJCCXY_SL342642_metabat.2 root                  (UID1)
+00.00                8.33          00.00                 5656      56        24
+haib18CEM5526_HMGTJCCXY_SL342642_metabat.3 root                  (UID1)
+00.00                4.17          00.00                 5656      45        24
+haib18CEM5526_HMGMHCCXY_SL343421_metabat.2 k_Archaea             (UID2) 
+00.00                1.87          00.00                 207       149       107
+haib18CEM5526_HMGMHCCXY_SL343403_netabat.2 k_Bacteria            (UID203) 
+00.00                1.49          00.00                 5449      104       58
+
+
+
+
+
+
+
+
+
+
+
+
