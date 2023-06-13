@@ -1,0 +1,44 @@
+Domeny i rodziny domen zidentyfikowane dla badanych próbek dla Zurychu z użyciem Gtdb-tk
+
+SRP_SPB
+Ribosomal_L10
+Ribosomal_L1
+Fe-ADH_2
+DUF150
+PNPase
+Ribosomal_S9
+GrpE
+RNA_pol_A_bac
+Ribosomal_S8
+RNA_pol_A_bac
+DUF150
+
+Domeny i rodziny domen zidentyfikowane z badanych próbek dla Kijowa z użyciem Gtdb-tk
+
+Ribosomal_S9
+SRP_SPB
+Fe-ADH_2
+PNPase
+DUF150
+Ribosomal_S8
+RNA_pol_A_bac
+GrpE
+Ribosomal_L1
+Ribosomal_L10
+Ribosomal_S8
+DUF150
+
+Domeny i rodziny domen zidentyfikowane z badanych próbek dla Sztokholmu z użyciem Gtdb-tk
+
+RNA_pol_A_bac
+Ribosomal_S8
+Ribosomal_S1
+Ribosomal_S9
+Ribosomal_L10
+Ribosomal_L1
+Fe-ADH_2
+GrpE
+SRP_SPB
+PNPase
+Fe-ADH_2
+DUF150
