@@ -9,7 +9,7 @@ I am the Author of the results and analysis.
 Repo contains only results of metagenomics analysis 
 
 Results were obtained by using the following programmes:
-FastQC|MultiQC|Trimmomatic|MegaHIT|MetaSPAdes|Bowtie2|KRAKEN2|BRACKEN|KRONA|SAMtools|CheckM|Gtdb-tk
+FastQC | MultiQC | Trimmomatic | MegaHIT | MetaSPAdes | Bowtie2 | KRAKEN2 | BRACKEN | KRONA | SAMtools | CheckM | Gtdb-tk
 
 
 
